@@ -1,0 +1,62 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-column{
+    background-color: #8D8D8D;
+}
+.navbar-container{
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: #00BDBD;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+.bg-redtype{
+    background-color:#F8857F;
+}
+.bg-redtype:hover{
+    color:black!important;
+}
+.redtype-color{
+    color: #F8857F;
+}
+.circle-edu{
+    background-color: #F8857F;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: #2BB3DD;
+}
+.form-container{
+    background-color: #474D5D;
+}
+.inner-form{
+    background-color: #585F73;
+}
+.footer{
+    background-color: #2BB3DD;
+}
+.circle{
+    background-color:white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    color: #2BB3DD;
+}
+.circle:hover{
+    background-color: #474D5D;
+}
